@@ -25,7 +25,7 @@ My effusive thanks to [@jernejsk](https://github.com/jernejsk) who made this bui
 2. Insert an SD Card at your computer
 3. Unmount any SD Card partitions:
 
-    `#umount mmcblk0p*`
+    `sudo umount mmcblk0p*`
     
 4. Extract LibreElec10's img file:
 
@@ -33,7 +33,7 @@ My effusive thanks to [@jernejsk](https://github.com/jernejsk) who made this bui
 
 5. Flash it to SD card with `dd`:
 
-    `#dd if=LibreELEC-H2-plus.arm-10.0-devel-20210810144215-beaa0c7-bananapi-m2-zero.img of=/dev/mmcblk0`
+    `sudo dd if=LibreELEC-H2-plus.arm-10.0-devel-20210810144215-beaa0c7-bananapi-m2-zero.img of=/dev/mmcblk0`
 
 ## License (Disclaimer)
 
