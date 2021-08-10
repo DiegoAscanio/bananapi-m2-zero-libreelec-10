@@ -25,16 +25,16 @@ My effusive thanks to [@jernejsk](https://github.com/jernejsk) who made this bui
 2. Insert an SD Card at your computer
 3. Unmount any SD Card partitions:
 
-    #umount mmcblk0p*
+    `#umount mmcblk0p*`
     
 4. Extract LibreElec10's img file:
 
-    gunzip LibreELEC-H2-plus.arm-10.0-devel-20210810144215-beaa0c7-bananapi-m2-zero.img.gz
+    `gunzip LibreELEC-H2-plus.arm-10.0-devel-20210810144215-beaa0c7-bananapi-m2-zero.img.gz`
 
 5. Flash it to SD card with `dd`:
 
-    #dd if=LibreELEC-H2-plus.arm-10.0-devel-20210810144215-beaa0c7-bananapi-m2-zero.img of=/dev/mmcblk0
+    `#dd if=LibreELEC-H2-plus.arm-10.0-devel-20210810144215-beaa0c7-bananapi-m2-zero.img of=/dev/mmcblk0`
 
 ## License (Disclaimer)
 
-As this image is a LibreElec's build, it's licensed under their GPLv2's license, under their terms and all copyrights belong to them.
+As this image is a [LibreElec](https://github.com/LibreELEC)'s build, it's licensed under their GPLv2's [license](https://github.com/LibreELEC/LibreELEC.tv/tree/master/licenses), under their terms and all copyrights belong to them.
