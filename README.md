@@ -21,7 +21,7 @@ My effusive thanks to [@jernejsk](https://github.com/jernejsk) who made this bui
 
 ## How to install it (Linux):
 
-1. Download the gzip image above
+1. Download the [gzip image](https://github.com/DiegoAscanio/bananapi-m2-zero-libreelec-10/raw/main/LibreELEC-H2-plus.arm-10.0-devel-20210810184355-beaa0c7-bananapi-m2-zero.img.gz) above
 2. Insert an SD Card at your computer
 3. Unmount any SD Card partitions:
 
