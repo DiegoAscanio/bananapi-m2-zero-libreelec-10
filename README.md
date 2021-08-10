@@ -29,11 +29,11 @@ My effusive thanks to [@jernejsk](https://github.com/jernejsk) who made this bui
     
 4. Extract LibreElec10's img file:
 
-    `gunzip LibreELEC-H2-plus.arm-10.0-devel-20210810144215-beaa0c7-bananapi-m2-zero.img.gz`
+    `gunzip LibreELEC-H2-plus.arm-10.0-devel-20210810184355-beaa0c7-bananapi-m2-zero.img.gz`
 
 5. Flash it to SD card with `dd`:
 
-    `sudo dd if=LibreELEC-H2-plus.arm-10.0-devel-20210810144215-beaa0c7-bananapi-m2-zero.img of=/dev/mmcblk0`
+    `sudo dd if=LibreELEC-H2-plus.arm-10.0-devel-20210810184355-beaa0c7-bananapi-m2-zero.img of=/dev/mmcblk0`
 
 ## License (Disclaimer)
 
