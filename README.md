@@ -5,10 +5,9 @@ What works:
 - WiFi
 - Audio (through HDMI)
 - Video
-
--- YouTube (480p quality)
--- HBO Max (480p quality)
--- Netflix and Prime Video (probably)
+  - YouTube (480p quality)
+  - HBO Max (480p quality)
+  - Netflix and Prime Video (probably)
 
 What don't:
 
